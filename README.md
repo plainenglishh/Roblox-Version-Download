@@ -15,6 +15,8 @@ rbxverdl [asset id] [version number] [output file]
 
 Compilation is not required and the batch script can be ran just like the executable. The executable contains the json script embedded however and if you are using the batch script you will need to have the json script in the same directory.
 
+To compile you can just a programme like Bat to Exe Converter and embed the json parser batch file.
+
 ## Usage in projects
 
 Feel free to use this in any private or commercial projects, this script is incredibly simple so it's not like it's taken me a lot of time to do.
